@@ -1,4 +1,3 @@
 # テスト用です
 
-test test test test test
-test test test test test
+ここで自由にGitコマンドの動作確認を行います
